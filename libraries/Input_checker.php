@@ -24,6 +24,4 @@ class Input_checker {
 		self::end_inline_checkbox();
 	}
 
-
-
 } /* end class */
