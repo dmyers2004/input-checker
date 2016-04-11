@@ -1,0 +1,33 @@
+{
+    "name": "projectorangebox/input-checker",
+    "description": "Make a checkbox always return a value",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/ProjectOrangeBox",
+    "keywords": [
+        "codeigniter",
+        "framework",
+        "orange"
+    ],
+    "authors": [
+        {
+            "name": "Don Myers",
+            "email": "donmyers@projectorangebox.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "orange": {
+        "version": "1.0.0",
+        "type": "package",
+        "priority": 50,
+        "notes": "",
+        "cli": {},
+        "help": "",
+        "tables": "",
+        "access": "",
+        "menubar": "",
+        "setting": ""
+    }
+}
