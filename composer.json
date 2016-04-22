@@ -20,7 +20,7 @@
     },
     "orange": {
         "version": "1.0.0",
-        "type": "package",
+        "type": "library",
         "priority": 50,
         "notes": "",
         "cli": {},
