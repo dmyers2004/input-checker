@@ -14,7 +14,7 @@ class Input_checker {
 		echo '<input type="checkbox" class="checkers" data-real="'.$name.'" data-checked="'.$list['checked'].'" data-unchecked="'.$list['unchecked'].'"'.$checked.'>';
 	}
 
-	static public function checker($name,$value,$matches=1,$extra=[]) {
+	static public function theme_checker($name,$value,$matches=1,$extra=[]) {
 		$text = $extra['text'];
 		unset($extra['text']);
 
